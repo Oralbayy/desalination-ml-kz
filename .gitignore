@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.log
+*.egg
+*.egg-info/
+*.bak
+
+# Venv
+venv/
+.env
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/config.toml
+
+# Model files
+
+
+# Data files
+
+
+# System
+.DS_Store
+Thumbs.db
+Archive.zip
+
