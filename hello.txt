@@ -3,3 +3,8 @@ docker build -t desalination-app .
 
 
 docker run -p 8501:8501 desalination-app
+
+
+git add .
+git commit -m "first commit"
+git push -u origin main
