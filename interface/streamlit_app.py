@@ -127,7 +127,7 @@ elif tab_action == "prev_tab" and st.session_state.get('current_tab', 0) > 0:
     st.rerun()
 
 # Main title and help
-st.markdown('<div class="main-title">💧 Суды тұщыландыру – Интерактивті қысым болжамы</div>', unsafe_allow_html=True)
+st.markdown('<div class="main-title">💧 Суды тұщыландыру жүйесі</div>', unsafe_allow_html=True)
 st.markdown("Бұл бағдарлама суды тұщыландыру процесін талдауға, қысымды, энергияны және шығындарды болжауға арналған.")
 
 with st.expander("ℹ️ Анықтама"):
